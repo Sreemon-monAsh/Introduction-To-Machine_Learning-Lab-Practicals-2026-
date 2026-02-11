@@ -23,3 +23,5 @@ Each row represents a data point with two features.
 ## Output
     Cluster Labels:
     [1 2 1 0 0 0]
+    
+![](heirarchial_output.png)
