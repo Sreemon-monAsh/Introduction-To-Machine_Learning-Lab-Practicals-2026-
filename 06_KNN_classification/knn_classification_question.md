@@ -40,3 +40,5 @@ Where:
         accuracy                           0.83        60
        macro avg       0.74      0.71      0.72        60
     weighted avg       0.82      0.83      0.83        60
+
+![](KNN_output.png)
