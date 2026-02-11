@@ -19,6 +19,6 @@ Unemployment_Rate
 Stock_Index_Price
 
 ## Output:
-Intercept: 2410.3930766742183
-
-Coefficients: [-176.15658363   43.61048204]
+    Intercept: 2410.3930766742183
+    
+    Coefficients: [-176.15658363   43.61048204]
