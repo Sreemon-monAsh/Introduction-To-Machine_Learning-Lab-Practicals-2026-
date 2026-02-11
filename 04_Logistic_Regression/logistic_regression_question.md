@@ -29,3 +29,4 @@ Columns:
     0            2    1
     
     1            0    2
+![](Logistic_regression_heatmap.png)
