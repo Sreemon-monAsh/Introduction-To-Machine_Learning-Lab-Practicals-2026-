@@ -15,4 +15,4 @@ Columns:
       
       Predicted Stock Index Price: [2154.57894737]
 
-![Linear Regression Output](output.png)
+![Linear Regression Output](linear_regression_output.png)
