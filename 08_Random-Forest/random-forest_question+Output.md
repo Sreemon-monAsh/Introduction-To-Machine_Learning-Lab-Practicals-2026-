@@ -7,7 +7,7 @@ Implement Random Forest Classification to predict the species of an Iris flower.
 
 ## 📂 Dataset
 
-File: `iris.csv`
+File: 'iris.csv'
 
 Columns:
 
@@ -18,10 +18,13 @@ Columns:
 5. class  
 
 Target Classes:
-
 - setosa  
 - versicolor  
 - virginica
+
+## No need to Draw , Just to see
+
+![](Random_forest_graph.png)
 
 ## Output
     Accuracy: 97.77777777777777
@@ -41,4 +44,4 @@ Target Classes:
     Confusion Matrix:
     [[16  0  0]
      [ 0 17  1]
- [ 0  0 11]]
+     [ 0  0 11]]
